@@ -1,0 +1,11 @@
+.image {
+    border-radius: 8px;
+    width: 200px;
+  }
+
+
+
+.centerContent{
+  justify-content:center;
+  align-items: center;
+}

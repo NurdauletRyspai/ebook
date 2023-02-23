@@ -1,0 +1,53 @@
+#components-layout-demo-responsive .logo {
+    height: 32px;
+    margin: 16px;
+    background: rgba(255, 255, 255, 0.2);
+  }
+
+  .content{
+ 
+        padding: 24;
+        width: 100%;
+        min-height:800px;
+    
+      
+  }
+
+
+  .navi {
+  
+      position: sticky;
+      width: 100%;
+      justify-content: space-between;
+      display: flex;
+      align-items: center;
+      justify-content: baseline;
+      padding: 1rem 2.5rem;
+      padding-right: 0%;
+      background-color: var(--bg-color);
+  
+    }
+  
+
+.ebook
+{
+
+    height: 32px;
+    margin: 16px;
+    background: rgba(255, 255, 255, 0.2);
+    text-decoration: none;
+    font-family: 'Rubik One', sans-serif;
+    font-size: 20px;
+    text-transform: uppercase;
+    background: #2E2F45;
+    display: table;
+    margin-left: 5%;
+    color: white;
+    border-radius: 5px;
+    margin-top: 4%;
+    padding: 5px 10px;
+
+}
+.selected{
+    width: 100%;
+}
